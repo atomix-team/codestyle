@@ -70,3 +70,4 @@
 
 - [API endpoints naming](https://gist.github.com/sergeysova/9f6dc24e21efe5f5bb4f9878216c2ce9)
 - [OpenApi tools](https://github.com/openapi)
+- [API scheme example](https://cardbox.github.io/backend/api-internal/index.html#/)
